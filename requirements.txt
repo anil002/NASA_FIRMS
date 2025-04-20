@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+requests
+folium
+streamlit-folium
+plotly
+scikit-learn
+statsmodels
+libpysal
+esda
+geopandas
+shapely
