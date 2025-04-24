@@ -22,7 +22,7 @@ st.set_page_config(page_title="FIRMS ire Monitoring Dashboard", layout="wide")
 # Add the title and developer line
 st.title("FIRMS Fire Monitoring Dashboard")
 st.markdown("Developed by: **Dr. Anil Kumar Singh**")
-st.markdown("**Email:singhanil854@gmail.com**")
+st.markdown("Email: **singhanil854@gmail.com**")
 # Custom CSS
 st.markdown("""
 <style>
